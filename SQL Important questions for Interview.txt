@@ -1,0 +1,136 @@
+Here are some of the most frequently asked SQL interview questions, categorized for clarity:
+
+
+1. Basic Concepts
+
+What is SQL? 
+How is it different from MySQL?
+
+What are the different types of SQL commands?
+DDL, DML, DCL, TCL.
+
+What are the key differences between DELETE, TRUNCATE, and DROP?
+
+What are constraints? Name and explain types of constraints.
+
+What are the differences between CHAR and VARCHAR?
+
+
+2. Queries and Clauses
+
+Write a query to fetch the second-highest salary from a table.
+
+Example: Using LIMIT or subqueries.
+
+What is the difference between WHERE and HAVING?
+
+Explain the use of GROUP BY and ORDER BY.
+
+What are the differences between UNION and UNION ALL?
+
+Write a query to find duplicate rows in a table.
+
+
+3. Joins
+
+What are the different types of joins in SQL?
+INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, CROSS JOIN.
+
+Explain the difference between INNER JOIN and OUTER JOIN with examples.
+
+How do you retrieve data from multiple tables using joins?
+
+Write a query to fetch employees who have no department assigned (use LEFT JOIN).
+
+
+4. Advanced Queries
+
+What are subqueries? Explain with examples.
+What is a correlated subquery, and how is it different from a regular subquery?
+
+What is the difference between EXISTS and IN?
+
+Explain Common Table Expressions (CTEs) with an example.
+
+How would you delete duplicate rows from a table?
+
+
+5. Functions
+
+What is the difference between scalar and aggregate functions?
+Examples: SUM(), AVG(), COUNT(), MIN(), MAX().
+
+Explain the use of COALESCE and NULLIF.
+
+How do window functions like ROW_NUMBER(), RANK(), and DENSE_RANK() work?
+
+What is the difference between NOW() and CURRENT_TIMESTAMP()?
+
+How can you extract year, month, or day from a date column?
+
+
+6. Indexes and Optimization
+
+What are indexes in SQL? 
+How do they improve query performance?
+
+What are the differences between clustered and non-clustered indexes?
+
+How do you use the EXPLAIN statement to optimize queries?
+
+What are some common ways to optimize SQL queries?
+
+What is the purpose of query caching?
+
+
+7. Transactions and Locks
+
+What are transactions in SQL? 
+What are ACID properties?
+
+Explain the difference between COMMIT, ROLLBACK, and SAVEPOINT.
+
+What are locks in SQL? Explain the difference between shared and exclusive locks.
+
+What is the purpose of isolation levels in transactions?
+
+
+8. Data Definition and Manipulation
+
+How do you create a table in SQL?
+
+What are the differences between ALTER TABLE and UPDATE?
+
+How can you add or drop a column in an existing table?
+
+What is the difference between INSERT INTO SELECT and INSERT INTO VALUES?
+
+How do you update multiple rows in a table?
+
+
+9. Security
+
+What are privileges in SQL?
+
+How do you create and manage users in SQL?
+
+What is the difference between GRANT and REVOKE?
+
+How do you ensure data security in SQL databases?
+
+
+10. Miscellaneous
+
+What is a stored procedure, and why is it used?
+
+What are triggers? Give an example of how they work.
+
+Explain views in SQL and their advantages.
+
+What are temporary tables and how are they different from regular tables?
+
+What is the difference between IN and BETWEEN?
+
+
+These questions are often a mix of theory and practical problem-solving. 
+For a strong performance, be ready to explain concepts clearly, write queries on the spot, and optimize them if required. Let me know if you'd like help preparing specific answers!
